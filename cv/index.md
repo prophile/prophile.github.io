@@ -26,8 +26,20 @@ Additional Information
 Education
 ---------
 
-* University of Southampton, BSc Computer Science (Hons.)
-* A levels/GCSEs?
+* University of Southampton, BSc Computer Science (Pending)
+* GCE A-levels:
+  * Maths (A/B)
+  * Music (B)
+* GCSEs:
+  * Maths (A*)
+  * English (A*/A*)
+  * Business Studies (A)
+  * German (A)
+  * ICT (A)
+  * Science (A/A)
+  * RE (A)
+  * Drama (A*)
+* RYA Dinghy Instructor (2011)
 
 Contact
 -------
